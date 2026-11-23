@@ -2,7 +2,7 @@
 github öğrenirken oluşturduğum ilk depo
 ## Hakkımda
 - **Bölüm:** Bilgisayar mühendisliği
-- **En çok merak ettiğim konu:**uçaklar nasıl havada durur
+- **En çok merak ettiğim konu:** Uçaklar nasıl havada durur?
 - ## Bu depoda neler var?
 - [İlk programım](kodlar/merhaba.py)
 
